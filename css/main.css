@@ -1,0 +1,14 @@
+@-ms-viewport{
+  width: device-width;
+}
+i#side-menu{
+  color: #000;
+  cursor: pointer;
+}
+div#landing{
+  background-image: url('../img/landing-img.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  padding-top: 1em;
+}
