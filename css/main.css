@@ -4,11 +4,8 @@
 i#side-menu{
   color: #000;
   cursor: pointer;
+  margin-top: 0.5em;
 }
-div#landing{
-  background-image: url('../img/landing-img.jpeg');
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-  padding-top: 1em;
+.parallax-container{
+  height: 40.2em;
 }
